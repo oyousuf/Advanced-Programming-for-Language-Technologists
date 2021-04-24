@@ -1,0 +1,358 @@
+1:
+SIZE:  10
+METHOD:  shuffle
+Swaps: 6 Comps: 14 Total: 20
+METHOD:  miniShuffle
+Swaps: 4 Comps: 13 Total: 17
+METHOD:  reverse
+Swaps: 9 Comps: 17 Total: 26
+
+SIZE:  30
+METHOD:  shuffle
+Swaps: 28 Comps: 56 Total: 84
+METHOD:  miniShuffle
+Swaps: 27 Comps: 56 Total: 83
+METHOD:  reverse
+Swaps: 29 Comps: 57 Total: 86
+
+SIZE:  50
+METHOD:  shuffle
+Swaps: 42 Comps: 91 Total: 133
+METHOD:  miniShuffle
+Swaps: 37 Comps: 86 Total: 123
+METHOD:  reverse
+Swaps: 49 Comps: 97 Total: 146
+
+SIZE:  70
+METHOD:  shuffle
+Swaps: 63 Comps: 132 Total: 195
+METHOD:  miniShuffle
+Swaps: 61 Comps: 130 Total: 191
+METHOD:  reverse
+Swaps: 69 Comps: 137 Total: 206
+
+SIZE:  90
+METHOD:  shuffle
+Swaps: 84 Comps: 172 Total: 256
+METHOD:  miniShuffle
+Swaps: 81 Comps: 169 Total: 250
+METHOD:  reverse
+Swaps: 89 Comps: 177 Total: 266
+
+SIZE:  110
+METHOD:  shuffle
+Swaps: 104 Comps: 212 Total: 316
+METHOD:  miniShuffle
+Swaps: 99 Comps: 208 Total: 307
+METHOD:  reverse
+Swaps: 109 Comps: 217 Total: 326
+
+SIZE:  130
+METHOD:  shuffle
+Swaps: 124 Comps: 252 Total: 376
+METHOD:  miniShuffle
+Swaps: 121 Comps: 249 Total: 370
+METHOD:  reverse
+Swaps: 129 Comps: 257 Total: 386
+
+SIZE:  150
+METHOD:  shuffle
+Swaps: 145 Comps: 294 Total: 439
+METHOD:  miniShuffle
+Swaps: 145 Comps: 293 Total: 438
+METHOD:  reverse
+Swaps: 149 Comps: 297 Total: 446
+
+0.007429700000000004
+
+--------------------------------------
+2:
+SIZE:  10
+METHOD:  shuffle
+Swaps: 6 Comps: 14 Total: 20
+METHOD:  miniShuffle
+Swaps: 6 Comps: 15 Total: 21
+METHOD:  reverse
+Swaps: 9 Comps: 17 Total: 26
+
+SIZE:  30
+METHOD:  shuffle
+Swaps: 23 Comps: 52 Total: 75
+METHOD:  miniShuffle
+Swaps: 22 Comps: 51 Total: 73
+METHOD:  reverse
+Swaps: 29 Comps: 57 Total: 86
+
+SIZE:  50
+METHOD:  shuffle
+Swaps: 45 Comps: 93 Total: 138
+METHOD:  miniShuffle
+Swaps: 43 Comps: 92 Total: 135
+METHOD:  reverse
+Swaps: 49 Comps: 97 Total: 146
+
+SIZE:  70
+METHOD:  shuffle
+Swaps: 67 Comps: 135 Total: 202
+METHOD:  miniShuffle
+Swaps: 63 Comps: 131 Total: 194
+METHOD:  reverse
+Swaps: 69 Comps: 137 Total: 206
+
+SIZE:  90
+METHOD:  shuffle
+Swaps: 87 Comps: 175 Total: 262
+METHOD:  miniShuffle
+Swaps: 83 Comps: 172 Total: 255
+METHOD:  reverse
+Swaps: 89 Comps: 177 Total: 266
+
+SIZE:  110
+METHOD:  shuffle
+Swaps: 108 Comps: 216 Total: 324
+METHOD:  miniShuffle
+Swaps: 103 Comps: 211 Total: 314
+METHOD:  reverse
+Swaps: 109 Comps: 217 Total: 326
+
+SIZE:  130
+METHOD:  shuffle
+Swaps: 126 Comps: 254 Total: 380
+METHOD:  miniShuffle
+Swaps: 120 Comps: 249 Total: 369
+METHOD:  reverse
+Swaps: 129 Comps: 257 Total: 386
+
+SIZE:  150
+METHOD:  shuffle
+Swaps: 142 Comps: 290 Total: 432
+METHOD:  miniShuffle
+Swaps: 141 Comps: 289 Total: 430
+METHOD:  reverse
+Swaps: 149 Comps: 297 Total: 446
+
+0.006755900000000002
+------------------------------------
+3:
+SIZE:  10
+METHOD:  shuffle
+Swaps: 6 Comps: 15 Total: 21
+METHOD:  miniShuffle
+Swaps: 4 Comps: 13 Total: 17
+METHOD:  reverse
+Swaps: 9 Comps: 17 Total: 26
+
+SIZE:  30
+METHOD:  shuffle
+Swaps: 28 Comps: 56 Total: 84
+METHOD:  miniShuffle
+Swaps: 25 Comps: 54 Total: 79
+METHOD:  reverse
+Swaps: 29 Comps: 57 Total: 86
+
+SIZE:  50
+METHOD:  shuffle
+Swaps: 47 Comps: 95 Total: 142
+METHOD:  miniShuffle
+Swaps: 45 Comps: 93 Total: 138
+METHOD:  reverse
+Swaps: 49 Comps: 97 Total: 146
+
+SIZE:  70
+METHOD:  shuffle
+Swaps: 65 Comps: 134 Total: 199
+METHOD:  miniShuffle
+Swaps: 61 Comps: 130 Total: 191
+METHOD:  reverse
+Swaps: 69 Comps: 137 Total: 206
+
+SIZE:  90
+METHOD:  shuffle
+Swaps: 86 Comps: 174 Total: 260
+METHOD:  miniShuffle
+Swaps: 81 Comps: 170 Total: 251
+METHOD:  reverse
+Swaps: 89 Comps: 177 Total: 266
+
+SIZE:  110
+METHOD:  shuffle
+Swaps: 108 Comps: 216 Total: 324
+METHOD:  miniShuffle
+Swaps: 104 Comps: 213 Total: 317
+METHOD:  reverse
+Swaps: 109 Comps: 217 Total: 326
+
+SIZE:  130
+METHOD:  shuffle
+Swaps: 125 Comps: 253 Total: 378
+METHOD:  miniShuffle
+Swaps: 121 Comps: 250 Total: 371
+METHOD:  reverse
+Swaps: 129 Comps: 257 Total: 386
+
+SIZE:  150
+METHOD:  shuffle
+Swaps: 142 Comps: 291 Total: 433
+METHOD:  miniShuffle
+Swaps: 141 Comps: 290 Total: 431
+METHOD:  reverse
+Swaps: 149 Comps: 297 Total: 446
+
+0.007028699999999999
+----------------------------------
+4:
+SIZE:  10
+METHOD:  shuffle
+Swaps: 8 Comps: 17 Total: 25
+METHOD:  miniShuffle
+Swaps: 7 Comps: 15 Total: 22
+METHOD:  reverse
+Swaps: 9 Comps: 17 Total: 26
+
+SIZE:  30
+METHOD:  shuffle
+Swaps: 27 Comps: 55 Total: 82
+METHOD:  miniShuffle
+Swaps: 23 Comps: 52 Total: 75
+METHOD:  reverse
+Swaps: 29 Comps: 57 Total: 86
+
+SIZE:  50
+METHOD:  shuffle
+Swaps: 43 Comps: 92 Total: 135
+METHOD:  miniShuffle
+Swaps: 43 Comps: 91 Total: 134
+METHOD:  reverse
+Swaps: 49 Comps: 97 Total: 146
+
+SIZE:  70
+METHOD:  shuffle
+Swaps: 68 Comps: 136 Total: 204
+METHOD:  miniShuffle
+Swaps: 65 Comps: 133 Total: 198
+METHOD:  reverse
+Swaps: 69 Comps: 137 Total: 206
+
+SIZE:  90
+METHOD:  shuffle
+Swaps: 87 Comps: 175 Total: 262
+METHOD:  miniShuffle
+Swaps: 83 Comps: 171 Total: 254
+METHOD:  reverse
+Swaps: 89 Comps: 177 Total: 266
+
+SIZE:  110
+METHOD:  shuffle
+Swaps: 104 Comps: 212 Total: 316
+METHOD:  miniShuffle
+Swaps: 101 Comps: 210 Total: 311
+METHOD:  reverse
+Swaps: 109 Comps: 217 Total: 326
+
+SIZE:  130
+METHOD:  shuffle
+Swaps: 123 Comps: 252 Total: 375
+METHOD:  miniShuffle
+Swaps: 121 Comps: 250 Total: 371
+METHOD:  reverse
+Swaps: 129 Comps: 257 Total: 386
+
+SIZE:  150
+METHOD:  shuffle
+Swaps: 145 Comps: 293 Total: 438
+METHOD:  miniShuffle
+Swaps: 141 Comps: 290 Total: 431
+METHOD:  reverse
+Swaps: 149 Comps: 297 Total: 446
+
+0.0076111999999999985
+-------------------------------------
+5:
+SIZE:  10
+METHOD:  shuffle
+Swaps: 6 Comps: 15 Total: 21
+METHOD:  miniShuffle
+Swaps: 5 Comps: 14 Total: 19
+METHOD:  reverse
+Swaps: 9 Comps: 17 Total: 26
+
+SIZE:  30
+METHOD:  shuffle
+Swaps: 25 Comps: 53 Total: 78
+METHOD:  miniShuffle
+Swaps: 26 Comps: 54 Total: 80
+METHOD:  reverse
+Swaps: 29 Comps: 57 Total: 86
+
+SIZE:  50
+METHOD:  shuffle
+Swaps: 46 Comps: 94 Total: 140
+METHOD:  miniShuffle
+Swaps: 41 Comps: 90 Total: 131
+METHOD:  reverse
+Swaps: 49 Comps: 97 Total: 146
+
+SIZE:  70
+METHOD:  shuffle
+Swaps: 64 Comps: 132 Total: 196
+METHOD:  miniShuffle
+Swaps: 62 Comps: 130 Total: 192
+METHOD:  reverse
+Swaps: 69 Comps: 137 Total: 206
+
+SIZE:  90
+METHOD:  shuffle
+Swaps: 83 Comps: 172 Total: 255
+METHOD:  miniShuffle
+Swaps: 79 Comps: 168 Total: 247
+METHOD:  reverse
+Swaps: 89 Comps: 177 Total: 266
+
+SIZE:  110
+METHOD:  shuffle
+Swaps: 107 Comps: 216 Total: 323
+METHOD:  miniShuffle
+Swaps: 103 Comps: 211 Total: 314
+METHOD:  reverse
+Swaps: 109 Comps: 217 Total: 326
+
+SIZE:  130
+METHOD:  shuffle
+Swaps: 124 Comps: 253 Total: 377
+METHOD:  miniShuffle
+Swaps: 119 Comps: 247 Total: 366
+METHOD:  reverse
+Swaps: 129 Comps: 257 Total: 386
+
+SIZE:  150
+METHOD:  shuffle
+Swaps: 144 Comps: 293 Total: 437
+METHOD:  miniShuffle
+Swaps: 142 Comps: 290 Total: 432
+METHOD:  reverse
+Swaps: 149 Comps: 297 Total: 446
+
+0.0071885000000000004
+---------------------------------
+
+
+TOTAL of 5 times = 0.03601398
+average of 5 times = 0.007202796
+
+for size in range(10, 151, 20):
+at size = 150:
+shuffle:
+ - average swaps = 143.6
+ - average comparisons = 292.2
+
+miniShuffle:
+ - average swaps = 142
+ - average comparisons = 290.4
+
+reverse:
+ - average swaps = 149
+ - average comparisons = 297
+
+
+
+While insertion sort runs in O(n) time in its best case, it runs in O(n^2) time in its worst and averages cases. In an optimal case scenario, the algorithm will traverse through the list and compare every pair of elements before swapping them if they're out of order. It's best case scenario comes from when it's fed a array that is pre-sorted; only traversal of the array is needed and indeed performed by the algorithm, resulting in the O(n) time. It's space complexity is less if it's fully or partially sorted, meaning it's adaptive. The opposite being when the input array is prepared (or comes by happenstance) in decreasing order.
